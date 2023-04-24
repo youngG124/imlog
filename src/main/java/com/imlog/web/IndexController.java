@@ -31,6 +31,8 @@ public class IndexController {
         PostsResponseDto dto = postsService.findById(id);
         model.addAttribute("post", dto);
 
+        System.out.println("the data when you call update page : "+dto.getContent());
+
         return "posts-update";
     }
 }

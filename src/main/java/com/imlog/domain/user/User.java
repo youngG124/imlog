@@ -32,8 +32,8 @@ public class User extends BaseTimeEntity {
     @Builder
     public User(String name, String email, String picture, Role role) {
         this.name = name;
-        this.email = email;
         this.picture = picture;
+        this.email = email;
         this.role = role;
     }
 
@@ -47,5 +47,4 @@ public class User extends BaseTimeEntity {
     public String getRoleKey() {
         return this.role.getKey();
     }
-
 }

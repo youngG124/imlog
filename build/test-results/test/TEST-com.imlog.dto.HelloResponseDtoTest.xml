@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.imlog.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-27T08:39:32" hostname="newyoung124ui-MacBookPro.local" time="0.005">
+<testsuite name="com.imlog.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-28T08:48:54" hostname="newyoung124ui-MacBookPro.local" time="0.007">
   <properties/>
-  <testcase name="lombok_function_test" classname="com.imlog.dto.HelloResponseDtoTest" time="0.005"/>
+  <testcase name="lombok_function_test" classname="com.imlog.dto.HelloResponseDtoTest" time="0.007"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
